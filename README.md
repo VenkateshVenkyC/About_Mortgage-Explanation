@@ -336,7 +336,7 @@ A **mortgage** is a legal agreement where a borrower pledges real estate as coll
    - Recorded in public records.
 
 3. **Assignment of Mortgage**
-4. **Assignment of Mortgage
+
 ### Definition: This is a legal document that transfers the mortgage from the original lender to a new lender or investor. It signifies that the mortgage debt has been sold or transferred to another party.
 ### How It Relates to Title: The assignment of mortgage must be recorded in public records, and a title search needs to identify the current holder of the mortgage. This ensures that when the loan is paid off, the correct party releases the lien.
 
