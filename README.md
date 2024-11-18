@@ -510,9 +510,8 @@ Foreclosure processes in Florida, Colorado, and Arizona involve specific notices
 3. **Arizona**: Fastest non-judicial process, with limited reinstatement options and no redemption after the sale.
 
 By closely examining recorded notices and state-specific criteria, you can ensure a clear understanding of property impacts during foreclosure.
----
 
-### **Mortgage or Deed of Trust (Pre-Foreclosure Stage)**
+## Mortgage or Deed of Trust (Pre-Foreclosure Stage)
 In the foreclosure process, a **deed** plays a key role in transferring ownership of the property. The type of deed used depends on the stage of foreclosure and how the property is sold or transferred. Here’s an overview of the **deed in foreclosure procedure** and the role it plays:
 
 ### 1. **Mortgage or Deed of Trust (Pre-Foreclosure Stage)**:
