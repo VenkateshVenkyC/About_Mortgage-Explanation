@@ -2,7 +2,7 @@
 
 ### **Mortgage Explanation**
 
-A **mortgage** is a legal agreement where a borrower (mortgagor) uses real estate as collateral to secure a loan from a lender (mortgagee). If the borrower fails to repay the loan, the lender has the right to foreclose and sell the property to recover the loan amount.
+A **mortgage** is a legal agreement where a borrower (mortgagor) uses real estate as collateral to secure a loan from a lender (mortgagee). If the borrower fails to repay the loan, the lender has the right to foreclose and sell the property to recover the loan amount.!
 
 ---
 
