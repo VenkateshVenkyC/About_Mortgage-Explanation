@@ -44,7 +44,7 @@ A **mortgage** is a legal agreement where a borrower (mortgagor) uses real estat
 
 #### 6. **Balloon Mortgage**
    - **Definition**: Requires a large payment (balloon payment) at the end of a short loan term.
-   - **Example**: A 7-year loan with monthly payments based on a 30-year amortization schedule, ending with a balloon payment.
+   - **Example**: A 7-year loan with monthly payments based on a 30-year amortization schedule, ending with a balloon payment
    - **Best For**: Borrowers planning to sell or refinance before the balloon payment.
 
 #### 7. **Jumbo Loan**
