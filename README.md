@@ -1,4 +1,4 @@
-## Understanding mortgages and their types helps borrowers make informed decisions based on financial goals and circumstances.
+### Understanding mortgages and their types helps borrowers make informed decisions based on financial goals and circumstances.
 
 ### **Mortgage Explanation**
 
