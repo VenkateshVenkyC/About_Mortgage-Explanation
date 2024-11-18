@@ -1,4 +1,5 @@
 ## Key Points/Elements of a Mortgage ##
+Understanding mortgages and their types helps borrowers make informed decisions based on financial goals and circumstances.
 
 ### **Mortgage Explanation**
 
